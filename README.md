@@ -14,4 +14,4 @@ The aim of this project is to explore and visualize historical data on F1 winner
 URL of the dataset
 https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024
 
-## Contributions are welcome! Feel free to open issues to report bugs or suggest improvements, and send pull requests with your contributions.
+• Contributions are welcome! Feel free to open issues to report bugs or suggest improvements, and send pull requests with your contributions.
