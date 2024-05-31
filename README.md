@@ -1,6 +1,6 @@
-# Data analysis of Formula 1 winners, in Jupyter Notebook (EN)
+# Data analysis of Formula 1 winners, in Jupyter Notebook (EN) 🏎️
 
-## Description
+## Description 
 The aim of this project is to explore and visualize historical data on F1 winners, using different types of graphs to feature and better understand trends and patterns over the years.
 
 ## Main Features
