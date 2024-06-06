@@ -15,3 +15,22 @@ URL of the dataset
 https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024
 
 • Contributions are welcome! Feel free to open issues to report bugs or suggest improvements, and send pull requests with your contributions.
+
+_________________________________________________________________
+# Análise de dados dos vencedores da Fórmula 1, no Jupyter Notebook (PT) 🏎️
+
+## Descrição
+O objetivo deste projeto é explorar e visualizar dados históricos sobre os vencedores da F1, utilizando diferentes tipos de gráficos para caracterizar e compreender melhor as tendências e padrões ao longo dos anos.
+
+## Principais características
+1. Gráfico de barras para visualizar o número de vitórias por piloto em diferentes temporadas.
+
+2. Séries Temporais para mostrar a evolução das corridas ao longo dos anos.
+
+3. Gráfico circular para ilustrar a distribuição percentual em 1991, mostrando o domínio de Ayrton Senna.
+
+
+URL do conjunto de dados
+https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024
+
+• Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas para relatar bugs ou sugerir melhorias e enviar pull requests com suas contribuições.
