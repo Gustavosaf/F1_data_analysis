@@ -1,4 +1,4 @@
-# Data analysis of Formula 1 winners, in Jupyter Notebook (EN) 🏎️
+# 🏎️ Data analysis of Formula 1 winners, in Jupyter Notebook (EN) 
 
 ## Description 
 The aim of this project is to explore and visualize historical data on F1 winners, using different types of graphs to feature and better understand trends and patterns over the years.
@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-
 • Contributions are welcome! Feel free to open issues to report bugs or suggest improvements, and send pull requests with your contributions.
 
 _________________________________________________________________
-# Análise de dados dos vencedores da Fórmula 1, no Jupyter Notebook (PT) 🏎️
+# 🏎️ Análise de dados dos vencedores da Fórmula 1, no Jupyter Notebook (PT) 
 
 ## Descrição
 O objetivo deste projeto é explorar e visualizar dados históricos sobre os vencedores da F1, utilizando diferentes tipos de gráficos para caracterizar e compreender melhor as tendências e padrões ao longo dos anos.
